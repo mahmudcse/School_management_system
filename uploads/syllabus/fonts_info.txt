@@ -1,0 +1,6 @@
+List of Fonts used in template 
+
+
+
+Questrial		http://www.google.com/fonts/#QuickUsePlace:quickUse/Family:Questrial
+Open Sans 		http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans
